@@ -1,4 +1,5 @@
-#💱Currency Converter – Modern Exchange Tool with Graphs
+💱Currency Converter – Modern Exchange Tool with Graphs
+
 The Currency Converter is a sleek, browser-based application that allows users to convert between global currencies with ease and visualize historical exchange rate trends over time. Built entirely with HTML, CSS, and JavaScript, it delivers both utility and design in a modern user interface.
 
 This project goes beyond basic currency conversion — it integrates interactive graphing features and a responsive layout to offer a more complete financial tool for developers, travelers, and finance learners.
